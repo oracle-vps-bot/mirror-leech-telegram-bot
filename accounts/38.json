@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "oracle-bot-sas",
+  "private_key_id": "6295e8d6f81ecf18d5ec12c645dcf87699efb993",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+cL369ijyD1O6\nbct4FzQ7RUNA3h/zpDtBkYsv/hl0yaeMoVqGz+P1FCd+bfDF1z70QAjmfTaYVbDl\nMKZo4Qroi3TN+poQMY9eQeXAXsTeNDSS14Yp+Htd+fTH7H4Q8lEaYgvmUyoojW22\nuJUrcIsPT6rCWggidgUYEKXSXkEU7dNJoKNkiB9XUksmMNu/jeKvNmee+A3UCbrh\nZvu5DUBpW7+0IQA6/7D4uZKehu4z1t/gOTHB6HA+ds1kNfi324wRcc6SNIzQW33q\nLfFCyLaQWwf4OvGNUSJsw0JjVkOGJQyXeEdVnvC5yjepyPebhCeuNNeanU3CUTal\n2dzRTqJjAgMBAAECggEAPBTNmxN2L4fuXm6tNqH7dIeRhDGP2woBN9p3ExkTZukH\n1zJAoS+NN5C4NQbyYzhZQC3DoRP32W+Pc385wPTewCbfHuzlFh7MoGwh0+MSMRg/\nTeR5C1y9bxSgyUIvM6F/PNeZ8XxjXI/iATeSuDW1aYs00EQfNOAPE1yNNCVQWw1x\nfLQ+gSMVKBxW+ceEtUgWBCOswgTW8xN7/9gaVNF5rqCnv4YVuicNesVuv6zdx7Sn\n/7UeX7uMt8THoR9nQtzRtnS601zVAunpZGTJx3oCMvnRiSGcbTTB+TV2BrMgeOIv\nnU2ul1+Z5AyxCo35ADM1/m01TKBH/AgI/gq7+zdoAQKBgQDqe8uWj4yJxpF1/szW\nTx69XsO81A39E5+uyqshchlxHOIGhc4ZsmnFXCcXQuo3h3rOa+uPcm6XLsEngkOf\n1rQ5hatuLtFAJrSkt1lnKokzNk5vSU6vx12f1ZvFXg5t2zfSmCqBgxM9XuX7ijyp\nn0Eqom3SKlr5gZjFXBou4E27YwKBgQDP6lZ4rrqgkfkOVIcOC/xNuYVtKUqHttNZ\n2lw9kL+gvjUzD/ESNmmMsnnl7JRgC5FpTxhq1K1ZcPXKqClqVYnr7+LjPB40vqoD\nqdBzjp4vo/3IJGi+/VstoQRVmI6EvfYV5i2VBrgPbaFDHaD2ZYB4/Uaz5V5acI/3\nk7HJgNWtAQKBgQCp6AodjubG7pt4ZKkIoUwk7AXpTb7VIuMSRMi783F8BPHCyDIP\nbLg3yg6JTHNqyUCzUn/d8Y0w/y/28O0PZQQyqikOLd5yHZnHwROHLcs80J0FBpl9\nxXiR2LaGzSCnebF5Z8llDxVh4uHC4ugSANO3kPsCzq4dHUsVtydB0EaDAQKBgA2/\nE5qFCufE3u+YnRlLp5HH+09dVIUmjFC7hC+520GYcdH/ctPebxoTTsXp32F+Qk3x\nIc8mYpOwST/t4FcccrL7uEeH2QNpu7nkR1jsi/7gW84YwigmfhnFNJEoNfwGxzdp\ncYgR2qeCexAB7Ht9+IGHVV5dguB94rbet/l3oCkBAoGBAIEwj4mu04P4KioZs1SY\nTXHBtTfbm7vB8j8v0W4dICRgPk3u+XyfbnGTDZtdHCAIub+mIBmTyy3vILu1+Mob\n9SKhmSzgVoZlQXEwri0vWJP0Amz6A4MJQDKzcbwhse6SFqsb8Ej26ZW17w13FxTv\nAmztEEAmJaOZ7mcpeJC5lz/i\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-lb7m-ciueezzeyesocigefdk-b@oracle-bot-sas.iam.gserviceaccount.com",
+  "client_id": "116052188470350127150",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-lb7m-ciueezzeyesocigefdk-b%40oracle-bot-sas.iam.gserviceaccount.com"
+}
